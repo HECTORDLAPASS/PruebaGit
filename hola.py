@@ -20,6 +20,4 @@ while i < 2:
         print("opcion invalida")
 
 
-
-
-
+print("estamos en una rama")
